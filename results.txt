@@ -1,0 +1,61 @@
+Disease Symptom Classifier — Evaluation Results
+============================================================
+
+Best Model: BernoulliNB  (α=1.0)
+Test Accuracy: 0.9990
+Macro F1:     0.9990
+
+All Models:
+  BernoulliNB  (α=1.0)            Acc=0.9990  F1=0.9990
+  BernoulliNB  (α=0.5)            Acc=0.9990  F1=0.9990
+  MultinomialNB(α=1.0)            Acc=0.9959  F1=0.9959
+  GaussianNB                      Acc=0.7683  F1=0.7662
+
+Class                           Precision     Recall         F1    Support
+--------------------------------------------------------------------------
+AIDS                                1.000      1.000      1.000         24
+Acne                                1.000      1.000      1.000         24
+Alcoholic hepatitis                 1.000      1.000      1.000         24
+Allergy                             1.000      1.000      1.000         24
+Arthritis                           1.000      1.000      1.000         24
+Bronchial Asthma                    1.000      1.000      1.000         24
+Cervical spondylosis                1.000      1.000      1.000         24
+Chicken pox                         1.000      1.000      1.000         24
+Chronic cholestasis                 1.000      1.000      1.000         24
+Common Cold                         1.000      1.000      1.000         24
+Dengue                              1.000      1.000      1.000         24
+Diabetes                            1.000      1.000      1.000         24
+Dimorphic hemorrhoids               1.000      1.000      1.000         24
+Drug Reaction                       1.000      1.000      1.000         24
+Fungal infection                    1.000      1.000      1.000         24
+GERD                                1.000      1.000      1.000         24
+Gastroenteritis                     1.000      1.000      1.000         24
+Heart attack                        1.000      1.000      1.000         24
+Hepatitis A                         0.960      1.000      0.980         24
+Hepatitis B                         1.000      1.000      1.000         24
+Hepatitis C                         1.000      1.000      1.000         24
+Hepatitis D                         1.000      0.958      0.979         24
+Hepatitis E                         1.000      1.000      1.000         24
+Hypertension                        1.000      1.000      1.000         24
+Hyperthyroidism                     1.000      1.000      1.000         24
+Hypoglycemia                        1.000      1.000      1.000         24
+Hypothyroidism                      1.000      1.000      1.000         24
+Impetigo                            1.000      1.000      1.000         24
+Jaundice                            1.000      1.000      1.000         24
+Malaria                             1.000      1.000      1.000         24
+Migraine                            1.000      1.000      1.000         24
+Osteoarthritis                      1.000      1.000      1.000         24
+Paralysis (brain hemorrhage)        1.000      1.000      1.000         24
+Peptic ulcer disease                1.000      1.000      1.000         24
+Pneumonia                           1.000      1.000      1.000         24
+Psoriasis                           1.000      1.000      1.000         24
+Tuberculosis                        1.000      1.000      1.000         24
+Typhoid                             1.000      1.000      1.000         24
+Urinary tract infection             1.000      1.000      1.000         24
+Varicose veins                      1.000      1.000      1.000         24
+Vertigo                             1.000      1.000      1.000         24
+
+macro avg                           0.999      0.999      0.999
+weighted avg                        0.999      0.999      0.999
+
+Overall Accuracy: 0.9990
