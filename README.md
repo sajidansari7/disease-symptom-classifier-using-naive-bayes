@@ -218,7 +218,6 @@ A: For each class independently, shuffle the samples and allocate `test_size` fr
 ## 🔗 Related Projects
 
 - [House Price Prediction](https://github.com/sajidansari7/house-price-prediction) — Gradient Descent variants from scratch on Ames Housing dataset
-- [Credit Risk Scoring Engine](https://github.com/sajidansari7/credit-risk-scoring) — Logistic Regression + PDO-based credit scorecard
 
 ---
 
