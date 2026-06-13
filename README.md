@@ -2,7 +2,7 @@
 
 > A multi-class disease prediction system built with **Bernoulli Naive Bayes from scratch** — no scikit-learn for the core algorithm. Trained on 41 diseases and 131 symptoms. Deployed as an interactive Streamlit web app.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-link.streamlit.app)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://disease-symptom-classifier-using-naive-bayes-vqyzwsc8nxbsadvzu.streamlit.app/)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![NumPy](https://img.shields.io/badge/Built%20with-NumPy%20only-013243)
 ![License](https://img.shields.io/badge/License-MIT-green)
